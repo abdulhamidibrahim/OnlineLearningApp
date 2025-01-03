@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "juXNvTUMLprB4sKgu/IVe9lnTN8jvk5C8gF0KxQoT5w=",
+  "Source": "OnlineLearningApp.Api",
+  "BasePath": "_content/OnlineLearningApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
